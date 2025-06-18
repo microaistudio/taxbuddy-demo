@@ -1,0 +1,5 @@
+# Create .gitignore file
+node_modules/
+.env
+dist/
+.DS_Store
